@@ -1,0 +1,60 @@
+body {
+  background: rgb(165,196,251);
+  background: radial-gradient(circle, rgba(165,196,251,0.865983893557423) 0%, rgba(204,179,252,1) 42%, rgba(109,134,222,1) 91%);
+}
+
+header {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size:100px;
+  color:black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  padding: 6px 32px;
+  border-radius: 6px;
+  color: white;
+  background: black;
+  border: 2px solid black;
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+button:hover {
+  color: black;
+  background: white;
+}
+
+h1 {
+  color: black;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size:20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#radio {
+  color: black;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  font-size: 13px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
